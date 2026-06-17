@@ -3,8 +3,8 @@
     "SOURCE - Overhead L 2": "AUDIO - Station L 2",
     "SOURCE - Fixed L": "AUDIO - Station L 1",
     "SOURCE - Overhead L 1": "AUDIO - Station L 1",
-    "SOURCE - PTZ R 1": "AUDIO - Station R 1",
-    "SOURCE - Overhead R 1": "AUDIO - Station R 1",
     "SOURCE - Fixed R": "AUDIO - Station R 1",
+    "SOURCE - Overhead R 1": "AUDIO - Station R 1",
+    "SOURCE - PTZ R 1": "AUDIO - Station R 2",
     "SOURCE - Overhead R 2": "AUDIO - Station R 2"
 }
