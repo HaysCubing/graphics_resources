@@ -5,47 +5,89 @@
     "New York Clock state record holder \nfor single and average",
     "Ranked 4th in New York for Square-1 average"
   ],
-  "2022KUMA05": [],
-  "2017BRYA06": [],
-  "2017MCKE02": [],
-  "2016KAMA04": [],
+  "2022KUMA05": [
+    "22nd Place at Rubik's WCA \nWorld Championship 2025 in Clock"
+  ],
+  "2017BRYA06": [
+    "Current Unofficial World Record holder in FTO, which will be added in January 2027"
+  ],
+  "2017MCKE02": [
+    "186 WCA medals",
+    "3rd Place at New England \nChampionship for Megaminx"
+  ],
+  "2016KAMA04": [
+    "2018 US national champion for Megaminx",
+    "141 WCA medals"
+  ],
   "2024BANA04": [
     "Ranked 2nd in Mexico for 2x2x2 Cube average"
   ],
-  "2016CORV01": [],
-  "2023DIOM01": [],
-  "2018NIED01": [],
-  "2019PERS02": [],
-  "2014WHEE01": [],
+  "2016CORV01": [
+    "18-time Mexican national record holder \nfor 3x3x3 One-Handed",
+    "3-time Mexican national champion"
+  ],
+  "2023DIOM01": [
+    "9th Place at Rubik's WCA \nWorld Championship in Clock"
+  ],
+  "2018NIED01": [
+    "6th place in 3x3x3 Cube at \nMid-Atlantic Championship 2024"
+  ],
+  "2019PERS02": [
+    "Ranked 3rd in Florida for \n3x3x3 Cube single and average",
+    "Ranked 3rd in Florida for \nMegaminx single and average"
+  ],
+  "2014WHEE01": [
+    "Ranked 5th in North America for\n 3x3x3 Fewest Moves single"
+  ],
   "2016SINY01": [
     "5-Time Megaminx North American Record Holder ",
     "Reigning Megaminx US National Champion",
     "3rd Place in Megaminx at \nNorth American Championship 2024"
   ],
-  "2019YEUN01": [],
-  "2017LAMB06": [],
+  "2019YEUN01": [
+    "Hong Kong national record holder for 4BLD and 5BLD",
+    "Ranked 2nd in Hong Kong for 3x3x3 Blindfolded"
+  ],
+  "2017LAMB06": [
+    "Ranked 7th in North America for 3x3x3 One-Handed"
+  ],
   "2015RODR01": [
     "3rd place finish in Pyraminx at Southern Championship 2026"
   ],
   "2022MAOA01": [
-    "Defending Pyraminx North American Champion",
+    "Defending Pyraminx North American champion",
     "9-time Canadian national record holder, including current Pyraminx average and single"
   ],
-  "2022TAOA01": [],
-  "2017WONG13": [],
-  "2022SAND19": [],
+  "2022TAOA01": [
+    "Current 3x3x3 Multi-Blind world champion",
+    "Ranked 17th in the United States \nfor 3x3x3 Blindfolded",
+    "Ranked 8th in the United States\n for 4x4x4 Blindfolded mean",
+    "Winner of Multi Mayhem VA 2026"
+  ],
+  "2017WONG13": [
+    "Ranked 11th in United States \nfor 3x3x3 Blindfolded single",
+    "Inventor of T2C (Twist-2-Corners) for BLD corners along with Elliott Kobelansky",
+    "Current Heartland 3x3x3 Blindfolded \nregional record holder"
+  ],
+  "2022SAND19": [
+    "Ranked 2nd in Colombia for 3x3x3 Blindfolded single",
+    "Ranked 4th in Colombia for 4x4x4 Blindfolded",
+    "Ranked 3rd in Colombia for 5x5x5 Blindfolded"
+  ],
   "2017SARE03": [
     "6-time Canadian national record holder, including current 3x3x3 Cube and 6x6x6 Cube single",
     "Eight Canadian national championship podiums"
   ],
   "2017RAND06": [
-    "2-time North American Championship\nPodium Finisher for 4x4x4 Cube",
-    "Current Virginia State Record Holder \nfor 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube"
+    "2-time North American Championship\npodium finisher for 4x4x4 Cube",
+    "Current Virginia state record holder \nfor 4x4x4 Cube, 5x5x5 Cube and 6x6x6 Cube"
   ],
-  "2017BLAC06": [],
+  "2017BLAC06": [
+    "Placed 2nd in Skewb at \nNorth American Championship 2024"
+  ],
   "2018CHEN05": [
-    "Former Canadian national record holder for Pyraminx single",
-    "2nd place finish in Pyraminx at Canadian Championship 2025"
+    "Former Canadian national record holder \nfor Pyraminx single",
+    "2nd place finish in Pyraminx at \nCanadian Championship 2025"
   ],
   "2022DINC01": [
     "3rd place in 2x2x2 Cube at CubingUSA All-Stars 2025",
@@ -53,8 +95,8 @@
     "Ranked 2nd in New York for Square-1 average"
   ],
   "2017ZHAO79": [
-    "3rd Seeded 3x3x3 Cube Finalist\nat CubingUSA Nationals 2023",
-    "Illinois State Record Holder for 3x3x3 Cube Average"
+    "3rd-seeded 3x3x3 Cube finalist\nat CubingUSA Nationals 2023",
+    "Illinois state record holder for 3x3x3 cube average"
   ],
   "2016GOTT01": [
     "Current Oregon state record holder \nfor Square-1 single and average",
@@ -64,17 +106,36 @@
   "2023DUNN09": [
     "Kansas 2x2x2 Cube state record holder \nfor single and average"
   ],
-  "2023SPRA03": [],
-  "2023KIMB02": [
-    "Ranked 2nd in Virgina for Square-1 single and average"
+  "2023SPRA03": [
+    "Ranked 21st in North America for Skewb average"
   ],
-  "2010THOM03": [],
-  "2011LINB01": [],
-  "2019VILL03": [],
+  "2023KIMB02": [
+    "Ranked 2nd in Virginia for Square-1 single and average"
+  ],
+  "2010THOM03": [
+    "Former WCA Board Member from 2022-2026"
+  ],
+  "2011LINB01": [
+    "Ranked 10th in the United States for 3x3x3 Multi-Blind",
+    "Ranked 29th in the United States \nfor 3x3x3 Blindfolded single",
+    "4-time Square-1 world record holder"
+  ],
+  "2019VILL03": [
+    "Complete WCA profile",
+    "Current New England 5x5x5 Blindfolded champion"
+  ],
   "2018ADAM06": [],
-  "2022THOM14": [],
-  "2018WROT01": [],
-  "2022LEEB02": [],
+  "2022THOM14": [
+    "Ranked 8th in US for 3BLD single"
+  ],
+  "2018WROT01": [
+    "Peaked at 3rd in the World in Skewb with a 0.86 single",
+    "Current Rocky Mountain Record holder \nfor Skewb single and average"
+  ],
+  "2022LEEB02": [
+    "5th Place at CubingUSA All-Stars for Megaminx",
+    "Placed 2nd in Megaminx at \nNew England Championship 2025"
+  ],
   "2021DUNA01": [
     "2-time Clock world record holder",
     "5-time Clock North American record holder",
@@ -106,44 +167,62 @@
     "3rd place in 3x3x3 Fewest Moves at \nWestern FMC Championship 2026"
   ],
   "2017SOUL02": [
-    "Connecticut State Record Holder for \n5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube",
-    "113 WCA Medals"
+    "Connecticut state record holder for \n5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube",
+    "113 WCA medals"
   ],
-  "2018WIDJ01": [],
-  "2016BITZ01": [],
+  "2018WIDJ01": [
+    "Former WR12 3x3x3 Cube single of 4.05 seconds",
+    "Mid-Atlantic Record holder for 3x3x3 Cube average"
+  ],
+  "2016BITZ01": [
+    "WCA Delegate ",
+    "132 WCA Medals"
+  ],
   "2015KUCA01": [
     "12-time Skewb record holder \n(including 4 world records)",
     "Two podium finishes at World Championship 2023 \n(Skewb and 3x3x3 Fewest Moves)",
     "Former Skewb US national champion (2019)",
-    "Senior Member of the WCA Regulations Committe"
+    "Senior Member of the WCA Regulations Committee"
   ],
   "2018THOM29": [
     "4-time Clock record holder\n(including 1 world record)",
     "3rd Place at CubingUSA All-Stars 2025 in Clock",
-    "Reigning 6x6 Great Lakes Champion",
-    "Member of the WCA Communication Team"
+    "Reigning 6x6x6 Cube Great Lakes champion",
+    "Member of the WCA Communications Team"
   ],
-  "2021WILL06": [],
+  "2021WILL06": [
+    "Former top-10 in the world for Clock single",
+    "CubingUSA Nationals 2023 Clock finalist",
+    "Placed 15th at North American\n Championship 2024 for Megaminx"
+  ],
   "2014CHIC01": [
     "Former 3x3x3 Fewest Moves world champion (2019)",
     "Former 3x3x3 Fewest Moves \nUS national champion (2018)",
     "2-time North American record holder \n(3x3x3 Fewest Moves and Skewb)"
   ],
   "2017SUNC02": [
-    "Current Runner-Up 3x3x3 Cube National Champion",
+    "Placed 2nd in 3x3x3 Cube at \nCubingUSA All-Stars 2025",
     "3rd place in 5x5x5 Cube at \nNorth American Championship 2024"
   ],
-  "2022ZHAN53": [],
+  "2022ZHAN53": [
+    "6 Megaminx medals",
+    "3rd in the Northwest region for \nMegaminx single and average"
+  ],
   "2022TUCK09": [
     "3rd place in Pyraminx at CubingUSA All-Stars 2025",
     "Connecticut state record holder for Pyraminx single and average"
   ],
-  "2018MCCA02": [],
+  "2018MCCA02": [
+    "Irish 3x3x3 Blindfolded national record holder \n(single and average)",
+    "Irish national record holder for \n4x4x4 Blindfolded single"
+  ],
   "2022CHAI02": [
     "3rd place in 2x2x2 Cube at \nNorth American Championship 2024",
     "Eight current Connecticut state records,\n including 3x3x3 Cube average"
   ],
-  "2016GUTI23": [],
+  "2016GUTI23": [
+    "Current 3x3x3 Cube New England champion"
+  ],
   "2014KARN02": [
     "2-time Square-1 record holder (including WR single)",
     "Former Square-1 US national champion (2018)",
@@ -155,22 +234,52 @@
   "2022SILV37": [
     "2nd place in Pyraminx at CubingUSA All-Stars 2025"
   ],
-  "2022SUSS01": [],
-  "2023MANG02": [],
-  "2016WILH03": [],
-  "2019REDI02": [],
+  "2022SUSS01": [
+    "Current Western Champion in Skewb",
+    "Finished 5th in Skewb at Worlds 2025"
+  ],
+  "2023MANG02": [
+    "Current Irish national record holder for Skewb single"
+  ],
+  "2016WILH03": [
+    "Placed 2nd in Megaminx\nat Mid-Atlantic Championship 2025",
+    "Pennsylvania state record holder for\n Megaminx single and average"
+  ],
+  "2019REDI02": [
+    "Defending North American champion in Skewb",
+    "Placed 2nd in Skewb at World Championship 2025"
+  ],
   "2023SHOJ01": [
     "Ranked 4th in California for 2x2x2 Cube average"
   ],
-  "2018RICH05": [],
-  "2022WIND03": [],
+  "2018RICH05": [
+    "Defending Clock Southeast champion",
+    "Rubik's WCA World Championship 2025 Clock finalist"
+  ],
+  "2022WIND03": [
+    "Tennessee Clock state record holder\n(single and average)"
+  ],
   "2016COSS01": [
     "7th place finish in Pyraminx at US Nationals 2023"
   ],
-  "2015MILL01": [],
-  "2022PEAC02": [],
-  "2020ARTZ01": [],
-  "2016PARK02": [],
+  "2015MILL01": [
+    "Formerly top-10 in the world for 3x3x3 Cube average",
+    "Placed 2nd in 3x3x3 Cube and Megaminx \nat Southern Championship 2026",
+    "406 WCA Medals",
+    "8th place in 3x3x3 Cube at \nRubik's WCA World Championship 2025"
+  ],
+  "2022PEAC02": [
+    "North Carolina state record holder \nfor 3x3x3 Cube average"
+  ],
+  "2020ARTZ01": [
+    "Former North American record holder \nfor Clock average",
+    "Placed 3rd in Clock at \nNorth American Championship 2024"
+  ],
+  "2016PARK02": [
+    "Former 3x3x3 One-Handed \nnational record single (7.97 seconds)",
+    "Reigning 3x3x3 One-Handed Southeast champion",
+    "139 WCA Medals"
+  ],
   "2019PHEL01": [
     "Former Square-1 world record single (4.33 seconds)",
     "3-time New England Square-1 champion",
@@ -180,66 +289,110 @@
     "Utah Square-1 state record holder\n for single and average"
   ],
   "2018PERK01": [
-    "Pyraminx single Mid-Atlantic record holder",
+    "Mid-Atlantic state record holder for Pyraminx single",
     "5th place in Pyraminx at CubingUSA All-Stars 2025"
   ],
-  "2025MONT06": [],
+  "2025MONT06": [
+    "Current Mexican national champion for 6x6x6 Cube",
+    "2nd Place in 7x7x7 Cube at\nMexican Championship 2025"
+  ],
   "2018CHOE02": [
-    "3rd in Great Lakes Region for \n7x7x7 Cube Single and Average",
+    "Ranked 3rd in Great Lakes region for \n7x7x7 Cube single and average",
     "72 WCA Medals"
   ],
   "2018ZHUA10": [
     "2nd place in 2x2x2 Cube at \nNorth American Championship 2024",
     "Three current Massachusetts state records, \nincluding Clock single and average"
   ],
-  "2023WATE01": [],
+  "2023WATE01": [
+    "Reigning New York State champion for Clock",
+    "Placed 3rd at Mid-Atlantic\n Championship 2025 in Pyraminx"
+  ],
   "2022FISH01": [
     "Ranked 3rd in Oregon for Square-1 single and average"
   ],
   "2023SEVE03": [
     "Oregon 2x2x2 Cube average state record holder"
   ],
-  "2022BAOF01": [],
-  "2018BERR01": [],
+  "2022BAOF01": [
+    "Defending Clock US national champion",
+    "Current female world record holder \nfor Clock single and average",
+    "41 WCA gold medals"
+  ],
+  "2018BERR01": [
+    "Ranked 37th in the United States\n for 3x3x3 Blindfolded single"
+  ],
   "2022GOWM01": [
     "Ranked 3rd in Pennsylvania for Pyraminx average",
     "WCA Trainee Delegate"
   ],
-  "2022WILL06": [],
-  "2015SCHO05": [],
-  "2022STON01": [
-    "Ranked 38th in the World for 5x5 Single (38.80)",
-    "Holds Seven Maine State Records"
+  "2022WILL06": [
+    "Ranked 36th in the United States \nfor 3x3x3 Blindfolded single",
+    "Ranked 10th in the United States \nfor 4x4x4 Blindfolded single",
+    "Ranked 7th in the United States \nfor 5x5x5 Blindfolded single"
   ],
-  "2016SIGG01": [],
+  "2015SCHO05": [
+    "11-time UK national record holder \n(2x2, Skewb, Square-1)",
+    "Podiumed at 5 straight UK Championships \nin Skewb (2016-2019, 2022)",
+    "Rubik's brand manager at Spin Master"
+  ],
+  "2022STON01": [
+    "Ranked 38th in the world for 5x5x5 Cube single",
+    "Seven current Maine state records, including \n3x3x3 Cube single and average"
+  ],
+  "2016SIGG01": [
+    "Current 3x3x3 Multi-Blind world record holder",
+    "Ranked 3rd in the United States for 4x4x4 Blindfolded",
+    "Ranked 2nd in the United States for 5x5x5 Blindfolded",
+    "Once did a 319/350 MultiBLD on stream"
+  ],
   "2018KHAN26": [
     "2-time Square-1 single world record holder",
     "Defending Square-1 US national champion",
     "Placed 2nd in Square-1 at World Championship 2025"
   ],
   "2018LICH05": [
-    "Placed third in 6x6 at World Championship 2025",
-    "On the 5x5 US national podium in 2023"
+    "Placed 3rd in 6x6x6 Cube at\n World Championship 2025",
+    "On the 5x5x5 US national podium (3rd) in 2023"
   ],
   "2022KAKA01": [
-    "Inidan National Record holder for Pyraminx single",
+    "Indian national record holder for Pyraminx single",
     "1st place in Pyraminx at Western Championship 2026"
   ],
   "2016PFEI01": [
-    "Podiumed in 5x5, 6x6, and 7x7\nat CubingUSA All-Stars 2025"
+    "Podiumed in 5x5x5, 6x6x6, and 7x7x7\nat CubingUSA All-Stars 2025"
   ],
   "2024BUCH01": [
     "Ranked 3rd in Pennsylvania for Pyraminx average"
   ],
-  "2022LEVI06": [],
-  "2023ZYTK01": [],
-  "2014STIN01": [],
-  "2022WOLF02": [],
-  "2015PARK08": [],
-  "2016LIJE01": [],
-  "2022BULA01": [],
+  "2022LEVI06": [
+    "Utah state record holder for Skewb single and average"
+  ],
+  "2023ZYTK01": [
+    "6 WCA gold medals",
+    "North Carolina state record holder\n for Skewb single and average"
+  ],
+  "2014STIN01": [
+    "2-time Southeast champion for Megaminx",
+    "Holds 12 Alabama state records, including \nsingle and average for 4x4x4-7x7x7"
+  ],
+  "2022WOLF02": [
+    "World Championship 2025 Clock finalist"
+  ],
+  "2015PARK08": [
+    "5-time 3x3x3 Blindfolded world record holder",
+    " 2- time 3x3x3 Blindfolded US national champion (2017 and 2018)",
+    "Ranked 3rd in the United States \nfor 3x3x3 Blindfolded single"
+  ],
+  "2016LIJE01": [
+    "Ranked 9th in North America for 7x7x7 Cube",
+    "76 WCA medals"
+  ],
+  "2022BULA01": [
+    "2025 Rocky Mountain champion for 3x3x3 Cube"
+  ],
   "2019YAOJ01": [
-    "5 current New Jersey state records",
+    "Five current New Jersey state records",
     "10th fastest North American \n3x3x3 Cube single (4.03 seconds)",
     "2025 3x3x3 Cube Mid-Atlantic champion"
   ],
@@ -247,22 +400,38 @@
     "12-time Clock Canadian national record holder,\nincluding current single and average",
     "Current Clock Canadian national champion"
   ],
-  "2019ORTI03": [],
+  "2019ORTI03": [
+    "Placed 3rd in Megaminx \nat Southern Championship 2026"
+  ],
   "2018ONGJ01": [
     "Ranked 2nd in Minnesota for Square-1",
     "3rd place in Square-1 at \nHeartland Championship 2026"
   ],
-  "2016WEIM01": [],
-  "2023GAOJ02": [],
-  "2017YOUN10": [],
-  "2022PELT02": [],
-  "2018GRAH05": [
-    "6 Current Female World Records",
-    "239 WCA Medals"
+  "2016WEIM01": [
+    "Placed 3rd in 3x3x3 Multi-Blind at US Nationals 2017",
+    "Ranked 24th in the United States \nfor 3x3x3 Blindfolded single"
   ],
-  "2023PRIN02": [],
+  "2023GAOJ02": [
+    "Ranked 6th in the world for 3x3x3 Multi-Blind",
+    "Ranked 5th in the United States \nfor 4x4x4 Blindfolded single",
+    "Ranked 8th in the United States for 5x5x5 Blindfolded",
+    "Current Southern record holder for 4x4x4 Blindfolded, 5x5x5 Blindfolded and 3x3x3 Multi-Blind"
+  ],
+  "2017YOUN10": [
+    "Six Minnesota state records, including 4x4x4 Cube and 5x5x5 Cube single and average"
+  ],
+  "2022PELT02": [
+    "12 WCA medals"
+  ],
+  "2018GRAH05": [
+    "6 current female world records",
+    "239 WCA medals"
+  ],
+  "2023PRIN02": [
+    "Winner of Warm-Up Carolina Pride 2026"
+  ],
   "2018WILS10": [
-    "2-time US national Pyraminx podium",
+    "2-time US national podium finisher in Pyraminx",
     "20th place finish in Pyraminx at World Championship 2025"
   ],
   "2018CREE01": [
@@ -276,39 +445,71 @@
     "21-time US national champion",
     "CubingUSA stream leader"
   ],
-  "2015SHAH09": [],
+  "2015SHAH09": [
+    "Former North American record holder \nfor 3x3x3 Fewest Moves mean",
+    "Defending North American champion \nfor 3x3x3 Fewest Moves",
+    "2-time US national podium finisher\n for 3x3x3 Fewest Moves"
+  ],
   "2019MEAD03": [
-    "Former Pyraminx average North American record holder",
-    "3rd in Pyraminx at US Nationals 2023",
-    "2025 Pyraminx Mid-Atlantic Champion"
+    "Former North American record holder\nfor Pyraminx average",
+    "Placed 3rd in Pyraminx at US Nationals 2023",
+    "2025 Pyraminx Mid-Atlantic champion"
   ],
-  "2016SANT08": [],
+  "2016SANT08": [
+    "6-time Canadian national record holder, \nincluding current 3x3x3 average",
+    "Six Canadian national championship podiums"
+  ],
   "2023PAKL02": [
-    "Maryland Pyraminx state record holder for single and average"
+    "Maryland Pyraminx state record holder \nfor single and average"
   ],
-  "2018GIBS04": [],
-  "2014CHEN37": [],
-  "2018KUCZ01": [],
+  "2018GIBS04": [
+    "Current 3x3x3 Fewest Moves world champion"
+  ],
+  "2014CHEN37": [
+    "Placed 3rd in 3x3x3 Blindfolded at World Championship 2023 and US Nationals 2023",
+    "Ranked 5th in the United States \nfor 3x3x3 Blindfolded single ",
+    "Placed 2nd in 4x4x4 Blindfolded \nat CubingUSA All-Stars 2025"
+  ],
+  "2018KUCZ01": [
+    "19-time Canadian national record holder \nfor Megaminx",
+    "Placed 2nd in Megaminx \nat North American Championship 2024",
+    "2-time Megaminx Canadian national champion"
+  ],
   "2022LIPP01": [
     "Ranked 3rd in Wisconsin for Square-1 average"
   ],
-  "2023BRYS01": [],
+  "2023BRYS01": [
+    "Female North American record holder\n for Megaminx single and average",
+    "Runner-Up Great Lakes champion for Megaminx"
+  ],
   "2017GARR05": [
     "Defending 3x3x3 One-Handed US national champion",
     "Current 3x3x3 One-Handed world record average",
     "Two podium finishes at World Championship 2023",
     "28 current Indiana state records"
   ],
-  "2015GRIE02": [],
-  "2024SMIT03": [],
+  "2015GRIE02": [
+    "Placed 3rd in 3x3x3 Cube at \nNorth American Championship 2024"
+  ],
+  "2024SMIT03": [
+    "Megaminx Southern champion",
+    "Texas state record holder for Megaminx average"
+  ],
   "2015KAME02": [
-    "3rd place finish in Pyraminx at North American Championship 2024"
+    "Placed 3rd in Pyraminx\n at North American Championship 2024"
   ],
-  "2014BOYA01": [],
+  "2014BOYA01": [
+    "3-time 3x3x3 Multi-Blind world record holder \n(beating the infamous Maskow's 41/41)",
+    "Ranked 6th in the United States for 3x3x3 Multi-Blind",
+    "Ranked 12th in the United States \nfor 5x5x5 Blindfolded"
+  ],
   "2022GOWM02": [
-    "4th place finish in Pyraminx at Mid-Atlantic Championship 2025"
+    "Placed 4th in Pyraminx \nat Mid-Atlantic Championship 2025"
   ],
-  "2013LANG03": [],
+  "2013LANG03": [
+    "Ranked 9th in the United States \nfor 4x4x4 Blindfolded mean",
+    "Held the speedstacking world record \nfor the Cycle in 2011"
+  ],
   "2022NUNE03": [
     "2026 2x2x2 Cube Southeast champion",
     "Ranked 3rd in North America for 2x2x2 Cube average",
@@ -317,13 +518,19 @@
   "2023MAOS01": [
     "Current Square-1 Chinese national record holder"
   ],
-  "2023LION02": [],
-  "2016INAB01": [
-    "Current 3x3 NAR Average Holder (4.72)",
-    "Eight podium finishes at\n North American Championships",
-    "Won North American Championship 2022"
+  "2023LION02": [
+    "4-time Indonesian national record holder \nfor Megaminx",
+    "13th place in Megaminx at Rubik's \nWCA World Championship 2025"
   ],
-  "2023MCGI02": [],
+  "2016INAB01": [
+    "Current North American record holder \nfor 3x3x3 Cube average",
+    "Eight podium finishes at\n North American championships",
+    "Won North American Championship 2022",
+    "Placed 6th in 3x3x3 Cube at \nRubik's WCA World Championship 2025"
+  ],
+  "2023MCGI02": [
+    "Reigning Clock Heartland champion"
+  ],
   "2012PARK03": [
     "12-time world champion",
     "91-time world record holder",
@@ -334,13 +541,24 @@
     "Former 3x3x3 Cube North American record single (4.22 seconds)",
     "3rd place finish in Square-1 at \nNorth American Championship 2022 and 2024"
   ],
-  "2018WALA01": [],
+  "2018WALA01": [
+    "CubingUSA Nationals 2019 Clock finalist",
+    "Went to the same high school as Henry Lichner",
+    "57 WCA medals"
+  ],
   "2023THEI01": [
     "Michigan state record holder for Pyraminx single"
   ],
-  "2022YEOM01": [],
-  "2022MAOM01": [],
-  "2019MUET01": [],
+  "2022YEOM01": [
+    "2nd place in 3x3x3 One-Handed \nat Western Championship 2026",
+    "2025 US All-Star for 3x3x3 One-Handed"
+  ],
+  "2022MAOM01": [
+    "Ranked 4th in Canada for 3x3x3 Blindfolded single"
+  ],
+  "2019MUET01": [
+    "Western champion for Megaminx"
+  ],
   "2017NIEL03": [
     "4-time Pyraminx record holder\n (including world record average)",
     "2nd place in Pyraminx at World Championship 2025",
@@ -351,83 +569,129 @@
     "Ranked 2nd in New York for Pyraminx average"
   ],
   "2021PHIL05": [
-    "Wisconsin State Record Holder \nfor 6x6x6 Cube, 7x7x7 Cube Mean",
-    "Won Four Events at Heartland Championship 2026\n(4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube)"
+    "Wisconsin state record holder \nfor 6x6x6 Cube and 7x7x7 Cube mean",
+    "Won four events at Heartland Championship 2026\n(4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube)"
   ],
   "2021RAHN01": [
     "Minnesota state record holder for \n2x2x2 Cube, Pyraminx and Square-1"
   ],
-  "2023CUAR03": [],
-  "2015NAIN01": [],
+  "2023CUAR03": [
+    "Reigning 3x3x3 One-Handed world champion",
+    "Placed 9th in 3x3x3 Cube at\nRubik's WCA  World Championship",
+    "2-time Philippine national record holder for Megaminx"
+  ],
+  "2015NAIN01": [
+    "26-time North American record holder for Megaminx",
+    "Former world record holder for Megaminx single",
+    "Defending Megaminx North American champion",
+    "3-time US national champion for Megaminx"
+  ],
   "2015SANC11": [
-    "Georgia 4x4x4 Cube average state record holder",
+    "Georgia state record holder for 4x4x4 Cube average",
     "Ranked 2nd in Georgia for\n 3x3x3 Cube single and average"
   ],
-  "2022KIMN01": [],
+  "2022KIMN01": [
+    "South Carolina Clock state record holder\n(single and average)"
+  ],
   "2017SWOR01": [
     "2rd place in 3x3x3 Fewest Moves at \nNorth American Championship 2024",
     "3rd place in 3x3x3 Blindfolded at \nNorth American Championship 2022",
     "Ranked 2nd in the United States for \n3x3x3 Blindfolded single"
   ],
-  "2016WOOD01": [],
+  "2016WOOD01": [
+    "Ranked 3rd in Ohio for 3x3x3 Cube average"
+  ],
   "2018ELLA01": [
     "40-time Canadian national record holder",
     "7-time Canadian national champion, \nincluding a 4x4x4-7x7x7 sweep in 2025",
     "Four current Canadian national records (7x7x7 single and average, 6x6x6 average and 5x5x5 single)"
   ],
-  "2016BROO08": [],
+  "2016BROO08": [
+    "Ranked 2nd in Florida for 3x3x3 Cube \nsingle and average"
+  ],
   "2016TRAG01": [
-    "3rd place in 3x3x3 One-Handed at CubingUSA All-Stars 2025",
+    "3rd place in 3x3x3 One-Handed \nat CubingUSA All-Stars 2025",
     "6th place in Pyraminx at World Championship 2025"
   ],
   "2012MAHV01": [
-    "598 WCA Medals",
-    "Arizona State Record Holder for 4x4x4 Cube, \n5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube"
+    "598 WCA medals",
+    "Arizona state record holder for 4x4x4 Cube, \n5x5x5 Cube, 6x6x6 Cube and 7x7x7 Cube"
   ],
-  "2018WEYE01": [],
+  "2018WEYE01": [
+    "63 WCA medals",
+    "5x5x5 Cube finalist at North\n American Championship 2024"
+  ],
   "2023MALO01": [
     "Defending Skewb US national champion",
     "Four current Connecticut state records, \nincluding Skewb and Square-1 average",
     "Ranked 9th in North America for 2x2x2 Cube"
   ],
-  "2014AMAY01": [],
-  "2014BAIR01": [
-    "Current 4x4x4 Cube, 5x5x5 Cube, \n3x3 One-Handed Southern Champion",
-    "Texas State Record Holder for \n4x4x4 Cube, 5x5x5 Cube, 3x3 One-Handed"
+  "2014AMAY01": [
+    "Ranked 3rd in Colombia for 3x3x3 Blindfolded single",
+    "Ranked 3rd in Colombia for 4x4x4 Blindfolded ",
+    "Ranked 4th in Colombia for 5x5x5 Blindfolded",
+    "Ranked 3rd in Colombia for 3x3x3 Multi-Blind"
   ],
-  "2022OZSV04": [],
-  "2022ARAM01": [],
+  "2014BAIR01": [
+    "Current 4x4x4 Cube, 5x5x5 Cube and\n3x3x3 One-Handed Southern champion",
+    "Texas state record holder for \n4x4x4 Cube, 5x5x5 Cube and 3x3x3 One-Handed"
+  ],
+  "2022OZSV04": [
+    "New Jersey state record holder for Clock average"
+  ],
+  "2022ARAM01": [
+    "Northwest regional record holder for Clock single"
+  ],
   "2022STOU01": [
     "Eight current Alabama state records, including \n2x2x2 Cube and 3x3x3 Cube single and average"
   ],
-  "2007HESS01": [],
-  "2015FARI06": [],
+  "2007HESS01": [
+    "Former 3x3x3 Multi-Blind world record holder (63/66)",
+    "2nd in Multi at NAC 2024",
+    "6th in US for 3BLD single",
+    "Former 2x2 WR Holder from 2009 + 2010"
+  ],
+  "2015FARI06": [
+    "Ranked 33rd in the US for 3x3x3 Blindfolded single"
+  ],
   "2016PILA03": [
     "2-time Square-1 single world record holder",
     "Second fastest North American\n3x3x3 Cube single (3.34 seconds)",
     "WCA Junior Delegate"
   ],
-  "2021RAME01": [],
+  "2021RAME01": [
+    "Ranked 7th in Massachusetts for 3x3x3 Fewest Moves"
+  ],
   "2014FANG01": [
     "2nd place in Square-1 at US Nationals 2019",
     "New York Square-1 state record holder \nfor single and average",
     "Placed 16th in Square-1 at World Championship 2025"
   ],
-  "2016HART02": [],
-  "2022STON09": [],
+  "2016HART02": [
+    "325 WCA medals"
+  ],
+  "2022STON09": [
+    "Ranked 43rd in the world for 3x3x3 Cube single",
+    "Reigning Clock Western champion"
+  ],
   "2018MACK04": [
     "Ranked 3rd in New Jersey for \n3x3x3 Cube single and average",
-    "New Jersey 3x3x3 One-Handed \naverage state record holder",
+    "Fastest 3x3x3 One-Handed single \nat North American Championship 2022",
     "2024 3x3x3 Cube Mid-Atlantic champion"
   ],
-  "2023DESP01": [],
-  "2023SHIV05": [],
+  "2023DESP01": [
+    "Runner-Up Megaminx Western champion",
+    " 15 WCA medals"
+  ],
+  "2023SHIV05": [
+    "Ranked 10th in North America for Skewb average"
+  ],
   "2020REDD01": [
     "2026 3x3x3 Cube Southern champion",
     "Texas 2x2x2 Cube average state record holder"
   ],
   "2016KELL12": [
-    "2-time Pyraminx world record holder, including current world record single",
+    "2-time Pyraminx world record holder, \nincluding current world record single",
     "WCA Delegate",
     "3rd place in Skewb at CubingUSA All-Stars 2025"
   ],
@@ -438,14 +702,16 @@
     "33 championship podiums \n(national, continental or world championships)"
   ],
   "2015WINT02": [
-    "Former Pyraminx United States national record single"
+    "Former Pyraminx US national record single"
   ],
   "2016FEIS01": [
     "Current 2x2x2 Cube average world record",
     "Current 2x2x2 Cube world champion",
     "Defending 2x2x2 Cube US national champion"
   ],
-  "2018CROU02": [],
+  "2018CROU02": [
+    "North American Championship 2024 Clock finalist"
+  ],
   "2022GRAH02": [
     "Ranked 2nd in Michigan for Pyraminx average"
   ],
@@ -459,25 +725,42 @@
     "2-time world champion (3x3x3 Blindfolded and Clock)",
     "Defending 3x3x3 Blindfolded \nNorth American champion"
   ],
-  "2022MEND14": [],
+  "2022MEND14": [
+    "Ranked 15th in California for \n3x3x3 One-Handed average"
+  ],
   "2017PETE04": [
     "15th place in Pyraminx at World Championship 2025",
     "WCA Delegate"
   ],
   "2018CHAM01": [
     "Current Texas Square-1 champion",
-    "WR3 Pyraminx single (0.77 seconds)"
+    "Ranked 3rd in the world for Pyraminx single"
   ],
-  "2019GEET02": [],
-  "2015ROBI04": [],
+  "2019GEET02": [
+    "Runner-up Southern champion for 3x3x3 One-Handed",
+    "40 WCA medals"
+  ],
+  "2015ROBI04": [
+    "Former North American record holder \nfor Skewb average",
+    "2026 Heartland Megaminx champion"
+  ],
   "2017SANK04": [
-    "Former Clock NAR single holder",
-    "Two North American Championship \nPodiums (6x6, Clock)",
-    "112 WCA Gold Medals"
+    "Former North American record holder for Clock single",
+    "Two North American championship \npodiums (6x6x6 Cube, Clock)",
+    "112 WCA gold medals"
   ],
-  "2022KAPU01": [],
-  "2019SHAR40": [],
-  "2022CHAS02": [],
+  "2022KAPU01": [
+    "4-time Clock world record holder",
+    "3-time Clock North American record holder",
+    "Current Clock world champion"
+  ],
+  "2019SHAR40": [
+    "2-time Indian Clock national record holder",
+    "Southern regional record holder for Clock single"
+  ],
+  "2022CHAS02": [
+    "18 WCA medals"
+  ],
   "2012CALL01": [
     "Former 2x2x2 Cube US national champion (2019)",
     "2-time 2x2x2 Cube North American record holder"
@@ -494,15 +777,26 @@
     "WCA Delegate and Communications Team member",
     "Livestream color commentator"
   ],
-  "2022CRIB01": [],
+  "2022CRIB01": [
+    "Reigning Clock Great Lakes champion",
+    "Ranked 11th in the world for Clock single"
+  ],
   "2016OCHS01": [
     "2nd place in 3x3x3 Fewest Moves\n at US Nationals 2019",
     "Ranked 2nd in North Carolina \nfor Pyraminx single and average",
     "North Carolina 3x3x3 Fewest Moves \nmean state record holder"
   ],
-  "2022SHAW09": [],
-  "2010WHIT05": [],
-  "2016VALE01": [],
+  "2022SHAW09": [
+    "Current Virginia Clock state record holder\n(single and average)",
+    "Runner-up Virginia state champion in Clock"
+  ],
+  "2010WHIT05": [
+    "239 WCA medals",
+    "WCA Junior Delegate"
+  ],
+  "2016VALE01": [
+    "25 WCA medals"
+  ],
   "2018KHAN28": [
     "11-time world record holder",
     "Five world championship podiums",
@@ -510,10 +804,12 @@
     "Former 2x2x2 Cube US national champion (2023)"
   ],
   "2015MACK06": [
-    "8th in the World for Sum of Ranks Average",
-    "9th in the World for Megaminx Average",
-    "397 WCA Medals",
-    "WCA Competition Announcement Team Senior Member"
+    "8th in the world for Sum of Ranks average",
+    "Ranked 9th in the world for Megaminx average",
+    "397 WCA medals",
+    "Senior Member of the WCA Competition Announcement Team"
   ],
-  "2023CHEN15": []
+  "2023CHEN15": [
+    "2nd place in 3x3x3 Cube \nat Western Championship 2026"
+  ]
 }
